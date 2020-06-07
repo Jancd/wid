@@ -1,0 +1,12 @@
+cmake-build-debug/
+.cmake-build-debug/
+CmakeFiles/
+.idea/
+
+Makefile
+
+*.cbp
+*.cmake
+CmakeCache.txt
+
+main
